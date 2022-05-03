@@ -1,4 +1,4 @@
-package com.days.day6;
+package com.days.day5;
 
 public class DataTypes {
 
