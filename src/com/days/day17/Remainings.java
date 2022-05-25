@@ -11,7 +11,8 @@ public class Remainings {
                 System.out.println(num);
             }
         }
-        for (int num = 5; num < 101; num += 5) {
+        for (int num = 5; num < 101; num += 5) {// increasing the value 5
+
             System.out.println("num = " + num);
 
         }
