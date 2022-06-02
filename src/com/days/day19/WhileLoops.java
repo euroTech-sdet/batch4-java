@@ -1,5 +1,7 @@
 package com.days.day19;
 
+import com.days.day21.Methods;
+
 public class WhileLoops {
 
     public static void main(String[] args) {
