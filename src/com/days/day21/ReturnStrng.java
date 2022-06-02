@@ -1,6 +1,6 @@
 package com.days.day21;
 
-public class ReturnStr {
+public class ReturnStrng {
     public static void main(String[] args) {
         System.out.println(helloName("Ahmet"));// this method callling carries now Hello Ahmet
         String hello = helloName("Ali");// Hello Ali
