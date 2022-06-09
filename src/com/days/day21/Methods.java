@@ -1,5 +1,7 @@
 package com.days.day21;
 
+import com.days.day22.Return;
+
 public class Methods {
     public static void main(String[] args) {
         // find the addition of numbers between 10-50
