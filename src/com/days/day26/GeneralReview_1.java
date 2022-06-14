@@ -1,6 +1,6 @@
 package com.days.day26;
 
-public class generalReview_1 {
+public class GeneralReview_1 {
 
 
     public static void main(String[] args) {
