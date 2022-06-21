@@ -1,4 +1,4 @@
-package com.days.days29;
+package com.days.day29;
 
 public class CarTest {
     public static void main(String[] args) {
