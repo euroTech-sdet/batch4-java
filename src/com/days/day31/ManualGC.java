@@ -1,4 +1,4 @@
-package com.days.day30;
+package com.days.day31;
 
 public class ManualGC {
     protected void finalize() throws Throwable {

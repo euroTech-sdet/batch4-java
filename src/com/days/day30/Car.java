@@ -1,33 +1,35 @@
 package com.days.day30;
 
-public class Car {// outer class
+public class Car {
 
-    int year;
     String color;
+    String model;
+    int year=2022;
+    int plateNumber;
+    static String brand = "Toyota";
+
+
+    public void starts() {
+
+        System.out.println("the car is started");
+
+    }
+
+    public void carInfo() {
+        System.out.println(plateNumber + " " + color + " " + model + " " + year);
+    }
 
     public void moving() {
 
-        System.out.println("car is moving ");
+
     }
 
+    public void breaks() {
 
-    public class Electricty {// inner class
 
-        boolean isElectric;
-        int price;
+    }
 
-        public  void main(String[] args) {
-            Car myCar = new Car();// creating an object from outer class
-            myCar.color = "Black";
-            myCar.moving();
-            Electricty electricCar = myCar.new Electricty();// via outer class object i can create an object from inner class
-            electricCar.price = 2000;
-
-        }
-
-        public void buy() {
-            System.out.println("bought a new electric car");
-        }
+    public void stopping() {
 
 
     }
