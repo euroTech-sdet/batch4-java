@@ -33,6 +33,8 @@ public class GarbageCollection {
         System.out.println(pro2 == language);
         GarbageCollection gb=new GarbageCollection();
         gb=null;
+        gb=new GarbageCollection();
+        gb=null;
         System.gc();
 
 
