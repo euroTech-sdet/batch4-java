@@ -6,7 +6,10 @@ import java.util.Scanner;
 public class ScannerSample {
 
 
+
+
     public static void main(String[] args) {
+        int number1=1; // local variable
         // System.out.println("Print to console!!");
 
  //       Scanner scanner = new Scanner(System.in);
