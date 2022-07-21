@@ -23,7 +23,6 @@ public class List {
         ArrayList<String> returnedPlayer = selectPlayer(players, "ho");// holds an arraylist i can assign this line to an arraylist
         System.out.println("returnedPlayer = " + returnedPlayer);
         selectPlayer("ho", players);
-
     }
 
     public static ArrayList<String> selectPlayer(ArrayList<String> gamer, String str) {
@@ -41,8 +40,6 @@ public class List {
     public static void selectPlayer(String str, ArrayList<String> gamer) {
         gamer.stream().filter(x -> x.contains(str)).forEach(System.out::println);
     }
-
-
 }
 
 
