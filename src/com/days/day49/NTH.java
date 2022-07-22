@@ -19,10 +19,8 @@ public class NTH {
     public static String everyNth(String str, int n) {
         String text = "";
         for (int i = 0; i < str.length() ; i = i + n) {
-
             System.out.println("str.charAt(i) = " + str.charAt(i));
             text = text + str.charAt(i);
-
         }
         return text;
     }
