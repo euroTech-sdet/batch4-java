@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Car {
 
 
-    String model;
+    String model;//states
     private int door;
     String color;
     private int year;
