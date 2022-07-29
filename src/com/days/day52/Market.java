@@ -9,7 +9,7 @@ public class Market {
     // when you buy bread buying price
     // profit = selling price - buying price
     // create a method shows you howmany bread-oil drinks are there in your shop
-    //  capital profit balance
+    // capital profit balance
 
 
 
