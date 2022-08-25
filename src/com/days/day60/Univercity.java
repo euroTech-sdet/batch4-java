@@ -11,6 +11,7 @@ public class Univercity {
         assistant.salary = assistant.salary + 5000;
         listofAca.add(academician);
         listofAssist.add(assistant);
+
     }
 
 }
