@@ -1,9 +1,7 @@
 package com.days.day56;
 
 
-import com.days.day52.Child;
-
-import static com.days.day52.Child.*;
+import com.days.day55.Child;
 
 import java.util.*;
 
@@ -15,9 +13,9 @@ public class AccessModifiers {
         Scanner scanner = new Scanner(System.in);
         ArrayList<String> list = new ArrayList<>();
         Child child = new Child();
-        child.print();
-        writeSomething();
-        readSomething();
+//        child.print();
+//        writeSomething();
+//        readSomething();
 
 
     }
