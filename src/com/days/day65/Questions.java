@@ -106,7 +106,7 @@ public class Questions {
         System.out.println("listYesNo = " + listYesNo);
 
 
-        System.out.println("\n//////////////////////Question-6//////////////////\n");
+
 
 
 
