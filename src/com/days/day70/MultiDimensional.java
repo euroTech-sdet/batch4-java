@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
-public class MultiDimensinalArrays {
+public class MultiDimensional {
     public static void main(String[] args) {
         int[] numbers = new int[5];
         String[] days = new String[]{"sunday", "monday", "tuesday", "wednesday"};

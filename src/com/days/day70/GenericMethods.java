@@ -1,4 +1,4 @@
-package com.days.day69;
+package com.days.day70;
 
 import java.util.ArrayList;
 
