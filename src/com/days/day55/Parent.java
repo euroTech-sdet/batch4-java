@@ -17,7 +17,8 @@ public class Parent extends ParentOfParent {
 
     String name;
 
-    public void testDriver(){
+    public Parent testDriver(){
         System.out.println("Parent test!");
+        return null;
     }
 }

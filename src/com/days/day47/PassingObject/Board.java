@@ -7,6 +7,10 @@ public class Board {
 
     String label;
 
+    public Board(){
+
+    }
+
     public Board(int serialNumber, String label) {
         this.serialNumber = serialNumber;
         this.label = label;

@@ -14,6 +14,8 @@ public class Student {
         totalStudent ++;
         System.out.println("Student.totalStudent = " + Student.totalStudent);
         this.isActive = true;
+        System.out.println("Give welcome pack to the student!!");
+        System.out.println("Share school new rule bla bla!! ");
     }
 
     public Student(long studentId) {

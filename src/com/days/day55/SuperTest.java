@@ -8,6 +8,8 @@ public class SuperTest {
 
         Child child1 = new Child("Tester");
 
+        child1.testDriver();
+
      //   System.out.println(child1.idNumber);
 
      //   child1.testDriver();

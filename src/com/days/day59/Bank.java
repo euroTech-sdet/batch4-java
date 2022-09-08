@@ -1,6 +1,6 @@
 package com.days.day59;
 
-public class Bank {
+public abstract class Bank {
 
     private String bankName;
 
