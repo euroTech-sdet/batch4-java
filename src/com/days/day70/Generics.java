@@ -23,5 +23,4 @@ class GenericTest {
         Generics generics = new Generics();
         generics.print("bye bye java");
     }
-
 }
