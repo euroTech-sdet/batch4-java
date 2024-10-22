@@ -20,6 +20,7 @@ public class ReturnArray {
 
 
     }
+
     // i will get a string array and will return a new  string array with each of 3 letter
 
     public static String[] theFirst3Letter(String[] arr) {
